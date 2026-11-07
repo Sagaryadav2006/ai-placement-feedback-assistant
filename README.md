@@ -1,5 +1,5 @@
 ## AI Placement Feedback Assistant
-https://ai-placement-feedback-assistant-fs3cbsqdooed8rtrqkqevq.streamlit.app/
+https://ai-placement-feedback-assistant-00.streamlit.app/
 
 An AI-powered interview preparation application built using **Python, Streamlit, LangChain, LangGraph, and Google Gemini**.
 
@@ -55,24 +55,6 @@ The application follows a multi-step AI workflow:
 - `state.py` – Defines the interview workflow state.
 - `requirements.txt` – Project dependencies.
 - `.gitignore` – Specifies files excluded from Git tracking.
-
-## Installation and Execution
-
-### 1. Clone the repository
-
-### 2. Create a virtual environment
-
-### 3. Install dependencies
-
-### 4. Configure the Gemini API key
-
-Create a `.env` file in the project directory:
-
-### 5. Run the application
-
-```bash
-streamlit run app.py
-```
 
 ## Learning Outcomes
 
